@@ -1,4 +1,11 @@
-## Hi there 👋
+## **Seja bem vindo** 🥑
+
+Meu nome é **Robert**
+
+- Sou formado em programação e aqui vou salvar alguns dos meu projeos
+
+![](https://media.tenor.com/crq5gv2US-kAAAAi/pet-mobile-game.gif)
+
 
 <!--
 **BrunoDBarbosa/BrunoDBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
